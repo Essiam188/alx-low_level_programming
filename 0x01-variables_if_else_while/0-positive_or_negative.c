@@ -1,6 +1,6 @@
 #include <stdlib.h>
 #include <time.h>
-#iclude <stdio.h>
+#include <stdio.h>
 
 /** Dettrmines if the number is zero, positive or negative
  * 
